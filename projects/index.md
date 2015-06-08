@@ -14,18 +14,3 @@ image:
 
 # Coming Soon#
 
-/***********************************
-
-* Standard Blockquote
-***********************************/
-> This is a block
-> of really cool
-> text
-
-/***********************************
-* Nested Blockquote
-***********************************/
-> Here is a block
-> that contains
->> a nest!
-> and I'm back out of the nest...
