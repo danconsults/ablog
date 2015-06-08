@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Home
+  url: http://localhost:4000
+
+- title: About
+  url: /about/
+
+- title: Articles
+  url: /articles/
+
+- title: Blog
+  url: /blog/
+
+- title: Resume
+  url: /resume/
+
+- title: Projects
+  url: /projects/
+
+- title: Search
+  url: /search/
