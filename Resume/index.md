@@ -8,7 +8,6 @@ image:
   feature:
 ---
 
-
 **Final-year Masters student**
 ------
     
