@@ -1,13 +1,12 @@
 ---
 layout: page
 title: "My Résumé"
-date:  
-modified:
-excerpt:
-image:
-  feature:
+#date:  
+#modified:
+#excerpt:
+#image:
+  #feature:
 ---
-
 
 **Final-year Masters student**
 ------
