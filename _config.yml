@@ -35,7 +35,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: 'Daniel Maina'
-  avatar: bio-photo.jpg
+  avatar: Danielpic.jpg
   email: fofungi@gmail.com
   disqus-shortname: 'Danielm'
   twitter: "https://twitter.com/dan_njuguna"
