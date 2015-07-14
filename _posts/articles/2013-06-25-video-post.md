@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-<iframe width="1280" height="750" src="https://www.youtube.com/embed/1VTMs7PSIM4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1VTMs7PSIM4" frameborder="0" allowfullscreen></iframe>
 
 Interesting debate on an interesting topic.
 
