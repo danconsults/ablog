@@ -6,7 +6,7 @@ categories: articles
 tags: [sample-post, readability]
 modified: 2013-06-30
 image:
-  feature: Cloud.jpg
+  feature: Cloud.png
   credit: Shutterstock
   
 comments: true
