@@ -8,14 +8,14 @@ image:
   credit: Shuuterstock
 ---
 
-## Your Marketing budget can significantly reduce by having a well maintained wiki and customer support.
+## Your Marketing budget VS. a well maintained wiki and customer support.
 
 Among information overload efficient supply-chains and blazingly fast product-to-market cycles, The best way of leveraging digital is actually making sure that the service or product sold is meeting consumer expectations, or exceeding them. 
 
 
 An example is customer analytics in applications. Most gaming companies have "markers" that make a game more exciting based on the players behavior. Gaming companies are now gaming more  insight on design simply based on gaming data.
 
-## Customer experience is not necessarily customer service
+## Customer experience is not customer service
 
 There is a whole spectrum of possibilities in implementing a great customer experience that moves away from "Thanks for calling how can we be if assistance today" . The main  thing understand efficient customer experience is to ask:
 
