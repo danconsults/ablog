@@ -17,8 +17,10 @@ An example is customer analytics in applications. Most gaming companies have "ma
 
 ## Customer experience is not necessarily customer service
 
-There is a whole spectrum of possibilities in implementing a great customer experience that moves away from "Thanks for calling how can we be if assistance today" . The main  thing understand efficient customer experience is to ask: 
+There is a whole spectrum of possibilities in implementing a great customer experience that moves away from "Thanks for calling how can we be if assistance today" . The main  thing understand efficient customer experience is to ask:
+
 > Are we designing and reacting to customer interactions in order to meet or exceed their expectations?
+
 > Are we able to see increased customer satisfaction, loyalty and advocacy? 
 
 All these are markers of a good customer experience. 
