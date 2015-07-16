@@ -21,6 +21,8 @@ There is a whole spectrum of possibilities in implementing a great customer expe
 
 > Are we designing and reacting to customer interactions in order to meet or exceed their expectations?
 
+
+
 > Are we able to see increased customer satisfaction, loyalty and advocacy? 
 
 All these are markers of a good customer experience. 
