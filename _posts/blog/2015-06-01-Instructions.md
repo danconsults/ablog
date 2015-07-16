@@ -5,7 +5,7 @@ categories: blog
 excerpt: "Forget traditional product- and service-based strategies. Managers can leverage on customer experience as a sustainable source of competitive differentiation."
 image:
   feature: smallv.jpg
-  credit: Shuuterstock
+  credit: Shutterstock
 ---
 
 ## Your Marketing budget VS. a well maintained wiki and customer support.
