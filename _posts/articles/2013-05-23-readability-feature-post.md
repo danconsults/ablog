@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post with Large Feature Image and Text"
+title: "Cloud and security"
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 categories: articles
 tags: [sample-post, readability]
