@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Customer experience is the new marketing front
 categories: blog
 excerpt: "Forget traditional product- and service-based strategies. Managers can leverage on customer experience as a sustainable source of competitive differentiation."
