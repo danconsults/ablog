@@ -1,31 +1,14 @@
 ---
 layout: page
-title: Projects in R. 
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  #feature: so-simple-sample-image-4.jpg
-  #credit: WeGraphics
-  #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: Sample Articles
+excerpt: "An archive of projects sorted by date."
+search_omit: true
+title: Projects
 ---
 
 
-
-
-# Coming Soon#
-
-/***********************************
-
-* Standard Blockquote
-***********************************/
-> This is a block
-> of really cool
-> text
-
-/***********************************
-* Nested Blockquote
-***********************************/
-> Here is a block
-> that contains
->> a nest!
-> and I'm back out of the nest...
+<ul class="post-list">
+{% for post in site.categories.projects %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>

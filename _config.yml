@@ -1,60 +1,11 @@
-
-
-# Site wide configuration	
-
-title:        Danblogs
-locale:       en_US
-description:  Data and information management.
-logo:         #site-logo.png
-search:       true
-url:          http://danielmaina.com
-
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-
-sass:
-  sass_dir: _sass
-  style: compressed
+port: 3000
+lsi: false
+permalink: '/:title/'
+#/:title
+markdown: kramdown
+# Since GH pages override this to "true", we test this value to see if we are running locally
+safe: false
+include: [".well-known"]
 gems:
-  - jekyll-sitemap
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  use_coderay: false
-							
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
-
-# Site owner
-owner:
-  name: 'Daniel Maina'
-  avatar: bio-photo.jpg
-  email: fofungi@gmail.com
-  disqus-shortname: 'Danielm'
-  twitter: "https://twitter.com/dan_njuguna"
-  facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google: 'UA-63108237-1'
-  #gahandler: 'UA-63108237-1'
-  plus: #username
-  analytics:
-  verify:
-  ad-client:
-  ad-slot:
-  bing-verify:
-			
+  - jekyll-redirect-from
+  - rdiscount
